@@ -1,1 +1,12 @@
-
+{
+    "latest_version": "v1.4.2",
+    "update_url": "https://github.com/chancalroy925/ALL-IN-ONE/releases",
+    "admin_hwids": [
+        "HWID-96AD79B9"
+    ],
+    "users": {
+        "HWID-96AD79B9": {
+            "expiry_date": "2026-12-31"
+        }
+    }
+}
