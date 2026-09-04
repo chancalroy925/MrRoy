@@ -5,7 +5,10 @@
         "HWID-96AD79B9"
     ],
     "users": {
-        "HWID-96AD79B9": {
+        "": {
+            "expiry_date": "2026-12-31"
+        },
+        "HWID-EC2CFAB0": {
             "expiry_date": "2026-12-31"
         }
     }
