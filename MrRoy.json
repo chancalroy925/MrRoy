@@ -7,9 +7,5 @@
     "users": {
         "": {
             "expiry_date": "2026-12-31"
-        },
-        "HWID-EC2CF": {
-            "expiry_date": "2026-12-31"
-        }
     }
 }
