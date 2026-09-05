@@ -1,11 +1,12 @@
 {
-    "latest_version": "v1.5.1",
-    "update_url": "https://github.com/chancalroy925/MrRoy/releases/download/v1.5.1/MrRoy.exe",
-    "admin_hwids": [
-        "HWID-96AD79B9"
-    ],
-    "users": {
-        "": {
-            "expiry_date": "2026-12-31"
+  "latest_version": "v1.5.1",
+  "update_url": "https://github.com/chancalroy925/MrRoy/releases/download/v1.5.1/MrRoy.exe",
+  "admin_hwids": [
+    "HWID-XXXXXXXX"
+  ],
+  "users": {
+    "HWID-YYYYYYYY": {
+      "expiry_date": "2026-12-31"
     }
+  }
 }
